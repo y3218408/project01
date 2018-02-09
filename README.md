@@ -78,7 +78,7 @@ One resource you can explore is the package [ir.vsr](http://www.cs.utexas.edu/us
   * include a sample of 100 tokens from your vocabulary.
   * the first 10 answers to queries 1 and 25.
   * discuss your final results.
-  * the file named Results with the results for all the 49 test queries, in the required format. - ~~make sure all your programs run correctly in Java~~.
+  * the file named Results with the results for all the 49 test queries, in the required format. -  make sure all your programs run correctly in Java.
 - submit your assignment, including programs, README file, and Results file, as a zip file through Blackboard Learn.
 - don’t include the initial text collection or any external tools.
 
